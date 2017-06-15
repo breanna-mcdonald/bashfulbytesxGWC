@@ -1,4 +1,4 @@
-DIRS = about resources
+DIRS = about resources calendar
 
 all: $(DIRS)
 
